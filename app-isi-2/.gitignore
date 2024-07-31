@@ -1,3 +1,6 @@
+#omitir por nombre
 peliculas.db
+#omitir por formato
 *.js
+#omitir por carpeta
 /images/
